@@ -1,0 +1,3 @@
+- Logo Fond blanc avec ODA comme ecriture 
+- Ajout du logo d'ODA et d'orange digital center su la page du minuteur
+- Ajout de mon nom.
