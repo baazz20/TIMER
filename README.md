@@ -21,9 +21,6 @@ flutter pub get
 flutter run
 ```
 
-
-## Pour se connecter une après installation
-
 Cette Application est conçue pour Android TV.
 
 
