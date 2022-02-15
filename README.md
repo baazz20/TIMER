@@ -29,4 +29,4 @@ Cette Application est conçue pour Android TV.
 
 ## EN IMAGE
 
-![interface ](/assets/imgages/gifoda.gif)
+![interface ](/assets/images/gifoda.gif)

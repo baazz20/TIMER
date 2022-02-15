@@ -1,0 +1,4 @@
+#Tue Feb 15 17:48:23 GMT 2022
+base.0=/Users/admin26/AndroidStudioProjects/odatimer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
